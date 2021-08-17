@@ -1,2 +1,2 @@
 # energy-mapping
- Repository for heatmapping energy consumption by Einride trucks
+a better readme is on its way!
